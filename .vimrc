@@ -53,11 +53,10 @@ set laststatus=2
 
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#whitespace#enabled = 0
-"let g:airline#extensions#tabline#enabled = 1
 "set guifont=Source\ Code\ Pro\ for\ Powerline
 
 """ FOR STATUSLINE
-"set encoding=utf-8 " Necessary to show Unicode glyphs
+set encoding=utf-8 " Necessary to show Unicode glyphs
 "let g:Powerline_symbols = 'fancy'
 "set nocompatible   " Disable vi-compatibility
 " For powerline font in MacVim
