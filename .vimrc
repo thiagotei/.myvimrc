@@ -53,6 +53,7 @@ set laststatus=2
 
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#whitespace#enabled = 0
+let g:airline_theme='jellybeans' 
 "set guifont=Source\ Code\ Pro\ for\ Powerline
 
 """ FOR STATUSLINE
@@ -83,4 +84,4 @@ set encoding=utf-8 " Necessary to show Unicode glyphs
 
 syntax on
 "set number
-filetype plugin indent on
+hi Search ctermbg=gray  
