@@ -7,6 +7,8 @@ My .vimrc with vim-airline
  * Install Vundle:
    
    - Follow instructions at https://github.com/VundleVim/Vundle.vim
+   - Launch vim and run :PluginInstall
+   - To install from command line: vim +PluginInstall +qall
    
  * Install vim-airline:
    
