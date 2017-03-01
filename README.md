@@ -10,7 +10,7 @@ My .vimrc with vim-airline
    
  * Install vim-airline:
    
-   - Vundle that for us!
+   - Vundle will do that for us!
  
  * Install vim-airline-themes:
  
