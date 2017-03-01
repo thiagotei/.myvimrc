@@ -9,6 +9,8 @@ My .vimrc with vim-airline
    - Follow instructions at https://github.com/VundleVim/Vundle.vim
    
  * Install vim-airline:
+   
+   - Vundle that for us!
  
  * Install vim-airline-themes:
  
