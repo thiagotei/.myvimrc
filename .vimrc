@@ -84,7 +84,16 @@ set encoding=utf-8 " Necessary to show Unicode glyphs
 
 syntax on
 "set number
-hi Search ctermbg=gray  
+" hi Search ctermbg=gray  
+hi Search ctermbg=LightGray ctermfg=Blue  
+" highlight Comment ctermbg=DarkGray
+" highlight Comment ctermbg=Blue ctermfg=White
+highlight Comment ctermfg=LightGray
+" highlight Constant ctermbg=Blue
+" highlight Normal ctermbg=Black
+highlight NonText ctermbg=Black
+" highlight Special ctermbg=DarkMagenta
+highlight Cursor ctermbg=Green
 
 " indentation source : http://vim.wikia.com/wiki/Converting_tabs_to_spaces
 autocmd FileType * set tabstop=8 shiftwidth=4 expandtab autoindent smartindent cindent
