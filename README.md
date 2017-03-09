@@ -18,7 +18,7 @@ My .vimrc with vim-airline
  
  * Powerline fonts:
  
- ## Nice References
+## Nice References
  
  * About cterm, colors, bg, and fg:
  
