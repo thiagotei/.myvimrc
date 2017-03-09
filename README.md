@@ -20,9 +20,10 @@ My .vimrc with vim-airline
  
 ## Nice References
  
- * About cterm, colors, bg, and fg:
+ * About cterm, colors, palette, bg, and fg:
  
    - http://alvinalexander.com/linux/vi-vim-editor-color-scheme-syntax
+   - http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html
  
  * Indentation
    - http://vim.wikia.com/wiki/Converting_tabs_to_spaces
