@@ -17,3 +17,9 @@ My .vimrc with vim-airline
  * Install vim-airline-themes:
  
  * Powerline fonts:
+ 
+ ## Nice References
+ 
+ * About cterm, colors, bg, and fg:
+ 
+   - http://alvinalexander.com/linux/vi-vim-editor-color-scheme-syntax
