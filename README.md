@@ -23,3 +23,6 @@ My .vimrc with vim-airline
  * About cterm, colors, bg, and fg:
  
    - http://alvinalexander.com/linux/vi-vim-editor-color-scheme-syntax
+ 
+ * Indentation
+   - http://vim.wikia.com/wiki/Converting_tabs_to_spaces
