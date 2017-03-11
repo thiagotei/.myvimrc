@@ -98,3 +98,8 @@ highlight Cursor ctermbg=Green
 " indentation source : http://vim.wikia.com/wiki/Converting_tabs_to_spaces
 autocmd FileType * set tabstop=8 shiftwidth=4 expandtab autoindent smartindent cindent
 autocmd FileType python set ai sw=4 ts=4 sta et fo=croql
+" in makefiles, don't expand tabs to spaces, since actual tab characters are
+" " needed, and have indentation at 8 chars to be sure that all indents are
+" tabs
+" " (despite the mappings later):
+autocmd FileType make set noexpandtab shiftwidth=8 softtabstop=0
