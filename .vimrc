@@ -103,3 +103,5 @@ autocmd FileType python set ai sw=4 ts=4 sta et fo=croql
 " tabs
 " " (despite the mappings later):
 autocmd FileType make set noexpandtab shiftwidth=8 softtabstop=0
+set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
+set list
