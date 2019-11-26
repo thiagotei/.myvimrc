@@ -83,5 +83,10 @@ let g:airline#extensions#whitespace#enabled = 0
 "  let g:airline_symbols.whitespace = 'Ξ'
 
 syntax on
+
+highlight Comment ctermfg=LightGray
 "set number
 filetype plugin indent on
+"set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
+"set list
+autocmd BufNewFile,BufRead *.locus   set syntax=locus
